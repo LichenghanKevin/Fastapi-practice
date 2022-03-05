@@ -7,7 +7,7 @@ http://<ip>:<port>/<設定的path>
 
 # test_get.py
 
-若使用 uvicorn <project_name>:<app> --reload  
+若使用 uvicorn <project_name>:app --reload  
 可以到 http://127.0.0.1:<default_port:8000>/docs 觀看
   
   
