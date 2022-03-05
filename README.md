@@ -1,8 +1,9 @@
 # Fastapi-practice
 
 # Request
+```bash=
 http://<ip>:<port>/<設定的path>
-
+```
 
 # test_get.py
 
